@@ -1,0 +1,11 @@
+{
+    isBaseRuleset: false,
+    modUrl: "https://github.com/Monokiro/Raze-anything",
+    uniques:[
+        "Allow raze capital",
+        "Allow raze holy city"
+    ],
+    constants:{
+
+    }
+}
